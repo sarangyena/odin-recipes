@@ -1,0 +1,21 @@
+.font{
+  font-family:"Verdana","DejaVu Sans",sans-serif;
+}
+.fontsize{
+  font-size:24px;
+}
+.color1{
+  background-color:rgb(100%,80%,79.61%);
+}
+.color{
+  background-color:rgb(100%,71.37%,75.69%);
+}
+#n2{
+  color:#0000FF;
+  font-size:36px;
+}
+#n4{
+  background-color:hsl(120,73%,75%);
+  font-size:24px;
+  font-weight:bold;
+}
